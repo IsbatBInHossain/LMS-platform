@@ -13,7 +13,7 @@ const teacherRoutes = [
   {
     icon: BarChart,
     label: 'Analytics',
-    href: '/teacher/analytic',
+    href: '/teacher/analytics',
   },
 ]
 const guestRoutes = [
